@@ -1,2 +1,2 @@
-# gitRocks
-This repository is for the internal workshop on Git Introduction
+# How to clone
+Open terminal and paste the command `git clone https://github.com/prateeklal/gitRocks` to clone the repository.
